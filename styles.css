@@ -101,17 +101,19 @@ ul{
 }
 
 .information-card {
-    width: 200px;
+    width: 250px;
     height: auto;
     text-align: center;
-
     margin: 16px;
+
+    font-size: 24px;
+    font-weight: 900;
 }
 
 .information-card img{
     border: 2px solid #3882F6;
-    width: 200px;
-    height: 200px;
+    width: 250px;
+    height: 400px;
     border-radius: 10px;
 
 }
